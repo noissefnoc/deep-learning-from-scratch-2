@@ -1,0 +1,8 @@
+# vurtual env dir
+venv
+
+# IDE settings dir
+.idea
+
+# macOS settings file
+.DS_Store
